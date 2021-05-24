@@ -1,0 +1,4 @@
+cat: 고양이
+apple: 사과
+bag: 가방
+rain: 비
